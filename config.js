@@ -26,7 +26,7 @@ global.sgc = 'https://chat.whatsapp.com/Bug7b2wjHmbL525At41QLO'
 // Donasi
 global.psaweria = 'https://saweria.co/FahriXz' 
 global.ppulsa = '08893729854'
-global.pdana = '0889-3729-854
+global.pdana = '0889-3729-854'
 // Info Wait
 global.wait = 'Memuat.......'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
